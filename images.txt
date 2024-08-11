@@ -1,2 +1,1 @@
-nginx:1.24-alpine
-node:18
+louislam/uptime-kuma
